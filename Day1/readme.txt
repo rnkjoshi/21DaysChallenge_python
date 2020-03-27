@@ -1,1 +1,1 @@
-Day 1 work is in this directory.
+*Day 0* work is in this directory.
